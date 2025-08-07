@@ -57,5 +57,5 @@ Example config.json:
 Found a bug? Want to improve the tool? Fork this repo and submit a Pull Request.<br>
 We welcome all kinds of contributions — bug fixes, improvements, new features, or template enhancements.<br>
 <br>
-<h1 align="center">DevCode Journey</h1>
+<h1 align="center">MR SABIT</h1>
 <br>
